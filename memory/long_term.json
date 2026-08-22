@@ -1,0 +1,110 @@
+{
+  "identity": {
+    "language": {
+      "value": "English",
+      "updated": "2026-07-26"
+    },
+    "name": {
+      "value": "Anshu",
+      "updated": "2026-07-26"
+    },
+    "role": {
+      "value": "Student, Web Developer, Frontend Developer, Backend Developer, Full Stack Learner, Entrepreneur, AI Enthusiast",
+      "updated": "2026-07-26"
+    },
+    "country": {
+      "value": "India",
+      "updated": "2026-07-26"
+    },
+    "home_location": {
+      "value": "Barnahal",
+      "updated": "2026-07-25"
+    },
+    "language_preference": {
+      "value": "English and Hindi",
+      "updated": "2026-07-26"
+    }
+  },
+  "preferences": {
+    "tech_stack": {
+      "value": "Most Preferred: HTML5, CSS3, JavaScript (Vanilla ES6+), PHP, MySQL. Sometimes Uses: Python. Avoid Unless Requested: Node.js, Firebase.",
+      "updated": "2026-07-26"
+    },
+    "coding_style": {
+      "value": "Always prefers: Separate HTML, CSS, JavaScript files. Modular code. Clean architecture. Easy-to-read code. Production-ready structure. Reusable components. Modern coding practices.",
+      "updated": "2026-07-26"
+    },
+    "ui_ux_style": {
+      "value": "Likes: Premium UI, Human-made appearance, 3D effects, Smooth animations, Modern typography, Large headings, Premium cards, Glassmorphism, Dark themes, Beautiful gradients, Animated backgrounds, Responsive layouts, Mobile-first design. Dislikes: Bootstrap-looking templates, Generic AI-generated designs, Old-fashioned layouts, Boring interfaces.",
+      "updated": "2026-07-26"
+    },
+    "website_requirements": {
+      "value": "Responsive, SEO Optimized, Premium, Fast, Animated, Human Designed, Professional, Modern, Clean, Interactive, Mobile Friendly, Easy to maintain.",
+      "updated": "2026-07-26"
+    },
+    "hosting_and_db": {
+      "value": "InfinityFree for hosting. PHP + MySQL for backend and database.",
+      "updated": "2026-07-26"
+    },
+    "customer_convincing": {
+      "value": "Frequently requests Hindi sales scripts, customer call scripts, website selling scripts, short convincing lines, easy-to-understand pitches.",
+      "updated": "2026-07-26"
+    },
+    "ai_interests": {
+      "value": "Jarvis, AI assistants, Automation, Voice/Desktop assistants, AI chatbots, API integration, Computer control.",
+      "updated": "2026-07-26"
+    },
+    "learning_and_response_style": {
+      "value": "Prefers full examples, complete projects, copy-paste-ready code. Wants long responses, complete answers, no unnecessary explanation. Wants full prompts and accurate code.",
+      "updated": "2026-07-26"
+    }
+  },
+  "projects": {
+    "discussed": {
+      "value": "School websites, Library websites, Digital marketing agency website (GetYourSoft), Portfolio websites, School Management System, Coaching Management System, Chat application, AI assistant (Jarvis clone), Dashboard systems, PWAs.",
+      "updated": "2026-07-26"
+    },
+    "school_management_system": {
+      "value": "Modules: Dashboard, Students, Teachers, Classes, Subjects, Attendance, Fees, Salary, Exams, Results, Receipts, Homework, Announcements, Settings, Reports. Requirements: Modern UI, PHP, MySQL, InfinityFree Compatible, Print Receipts/Result Sheets, Responsive, Easy Admin Panel.",
+      "updated": "2026-07-26"
+    },
+    "chat_application": {
+      "value": "Rooms, Profiles, Settings, Status, Modern messaging UI, PHP Backend, MySQL Database, Responsive Design.",
+      "updated": "2026-07-26"
+    },
+    "digital_agency": {
+      "value": "GetYourSoft. Website Development, Digital Marketing, School/Business/Library/Portfolio Websites.",
+      "updated": "2026-07-26"
+    },
+    "coding_language_project": {
+      "value": "Working on own coding language",
+      "updated": "2026-08-22"
+    }
+  },
+  "relationships": {
+    "developer_relation": {
+      "value": "Developer",
+      "updated": "2026-07-23"
+    }
+  },
+  "wishes": {
+    "main_goals": {
+      "value": "Become an excellent Full Stack Developer. Build professional websites & modern web apps. Create a successful Digital Marketing Agency. Sell websites to schools and businesses. Build an AI assistant similar to Jarvis. Create apps that can become popular across India. Make products people actually use.",
+      "updated": "2026-07-26"
+    }
+  },
+  "notes": {
+    "prefers 'Boss' over 'efendim'": {
+      "value": "User explicitly stated not to use 'efendim' and confirmed preference for 'Boss'.",
+      "updated": "2026-07-23"
+    },
+    "personality": {
+      "value": "Loves building things. Learns by creating projects. Prefers practical learning over theory. Wants complete solutions instead of partial examples. Likes detailed responses. Enjoys experimenting with AI. Wants production-ready code. Wants premium-quality work. Interested in starting businesses.",
+      "updated": "2026-07-26"
+    },
+    "watch_ring_name": {
+      "value": "If asked 'What is the rotating ring on a watch called?', must answer 'Dial' and explain its use.",
+      "updated": "2026-07-26"
+    }
+  }
+}
