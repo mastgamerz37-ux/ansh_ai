@@ -1,0 +1,65 @@
+[
+  {
+    "task_id": "t1",
+    "goal": "test_goal",
+    "status": "SUCCESS",
+    "result": "saved to C:/Users/test/file.txt",
+    "error": "",
+    "saved_file": "/Users/test/file.txt",
+    "timestamp": "2026-08-22 16:33:33"
+  },
+  {
+    "task_id": "t1",
+    "goal": "test_goal",
+    "status": "SUCCESS",
+    "result": "saved to C:/Users/test/file.txt",
+    "error": "",
+    "saved_file": "/Users/test/file.txt",
+    "timestamp": "2026-08-22 16:39:17"
+  },
+  {
+    "task_id": "t1",
+    "goal": "test_goal",
+    "status": "SUCCESS",
+    "result": "saved to C:/Users/test/file.txt",
+    "error": "",
+    "saved_file": "/Users/test/file.txt",
+    "timestamp": "2026-08-22 16:40:33"
+  },
+  {
+    "task_id": "06fe78d4",
+    "goal": "Create presentation: AI Future",
+    "status": "failed",
+    "result": "",
+    "error": "GEMINI_API_KEY is not configured.",
+    "saved_file": "",
+    "timestamp": "2026-08-22 16:40:34"
+  },
+  {
+    "task_id": "t1",
+    "goal": "test_goal",
+    "status": "SUCCESS",
+    "result": "saved to C:/Users/test/file.txt",
+    "error": "",
+    "saved_file": "/Users/test/file.txt",
+    "timestamp": "2026-08-22 16:41:18"
+  },
+  {
+    "task_id": "b7abd2d6",
+    "goal": "Create presentation: AI Future",
+    "status": "failed",
+    "result": "",
+    "error": "GEMINI_API_KEY is not configured.",
+    "saved_file": "",
+    "timestamp": "2026-08-22 16:41:19"
+  },
+  {
+    "task_id": "8a8d49b5",
+    "goal": "Create presentation: artificial intelligence",
+    "status": "failed",
+    "result": "",
+    "error": "404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}",
+    "saved_file": "",
+    "timestamp": "2026-08-22 18:20:33"
+  }
+]
